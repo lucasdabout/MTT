@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "317561677699",
+    "project_id": "multitimer-96a59",
+    "storage_bucket": "multitimer-96a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317561677699:android:2fc4b98ee23b07881178b6",
+        "android_client_info": {
+          "package_name": "com.mycompany.mttimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317561677699-i7s36mqqai9jc14o96ci6q3qppt51ag2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.mttimer",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "317561677699-t3nfqql5pcme1l4nmsj5p2jgr8psm0bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKY2PBgh4oPDEMoxyPotSsqCZOe4DoXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317561677699-t3nfqql5pcme1l4nmsj5p2jgr8psm0bh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317561677699-4d9ls1po157ouvqomscno7nh32mkktji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kaleo.Chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
